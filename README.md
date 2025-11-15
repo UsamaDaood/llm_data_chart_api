@@ -44,7 +44,7 @@ llm_data_chart_api/
 Clone the repo
 
 ```bash
-git clone https://github.com/your-username/llm_data_chart_api.git
+git clone https://github.com/UsamaDaood/llm_data_chart_api.git
 cd llm_data_chart_api
 ```
 
